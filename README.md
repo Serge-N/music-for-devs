@@ -1,7 +1,7 @@
 # music-for-devs
 For developers and designers that listen to instrumental music while working.
 
-There are current four playlists :
+There are currently four playlists :
 
 * For the [Backend](https://youtube.com/playlist?list=PLTZwPS-KkOSTXXnD2PQrtNvfxQAZ9c2kj)
 * For the [Database](https://youtube.com/playlist?list=PLTZwPS-KkOSTcY17m2haba-51Tfkt3yB6)
