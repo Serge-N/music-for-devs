@@ -6,7 +6,7 @@ There are currently four playlists :
 * For the [Backend](https://youtube.com/playlist?list=PLTZwPS-KkOSTXXnD2PQrtNvfxQAZ9c2kj)
 * For the [Database](https://youtube.com/playlist?list=PLTZwPS-KkOSTcY17m2haba-51Tfkt3yB6)
 * For the [Frontend](https://youtube.com/playlist?list=PLTZwPS-KkOSTvJDxo2EHUK6kW5AsM-lvb)
-* For the [API](https://youtube.com/playlist?list=PLTZwPS-KkOSQay3leaxH7vAEubV2BriWS) Design
+* For [API](https://youtube.com/playlist?list=PLTZwPS-KkOSQay3leaxH7vAEubV2BriWS) Design
 
 
 This playlist has been created for the few us that love instrumnental music from various cultures.
